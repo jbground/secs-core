@@ -1,0 +1,2 @@
+rootProject.name = "secs-core"
+
